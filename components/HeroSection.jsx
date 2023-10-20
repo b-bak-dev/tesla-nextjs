@@ -45,7 +45,7 @@ const HeroSection = () => {
         loop
       ></video>
 
-      <div className="z-10 w-full h-[450px] md:h-[620px] flex flex-col items-center p-5 mb-8 ">
+      <div className="z-10 w-full h-[450px] md:h-[620px] flex flex-col items-center p-8 mb-8 ">
         <motion.h2
           variants={modelAnimation}
           initial="hidden"
